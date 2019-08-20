@@ -34,6 +34,7 @@ function main()
  'Zia','Kiona','Lars','Molly','Gregory','Felix','William','Dahlia','Gil','Byron','Daria','Nevada','Claudia',
 'Zelenia','Nathan','Judah','Sheila'];
    fbUser.push(myArray);
+   // you never created an object(s).
     console.log(newArray)
 
 }
